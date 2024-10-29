@@ -1,1 +1,1 @@
-# inventoty-mvc
+# inventory-mvc
